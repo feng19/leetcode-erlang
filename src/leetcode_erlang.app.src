@@ -1,0 +1,11 @@
+{application, leetcode_erlang, [
+    {description, "leetcode for erlang"},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {applications, [kernel, stdlib]},
+    {env, []},
+    {modules, []},
+    {maintainers, ["feng19"]},
+    {licenses, ["MIT"]},
+    {links, [{"Github", "https://github.com/feng19/leetcode-erlang"}]}
+]}.
