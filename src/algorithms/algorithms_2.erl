@@ -12,9 +12,21 @@
 
 %% API
 -export([
-    do/1
+    do/2
 ]).
 
-%% TODO
-do(_) ->
-    ok.
+do(List1, List2) ->
+    do(0, List1, List2).
+do(Carry, [N1 | List1], [N2 | List2]) ->
+    do_next(N1 + N2 + Carry, List1, List2);
+do(Carry, [], [N2 | List2]) ->
+    do_next(N2 + Carry, [], List2);
+do(Carry, [N1 | List1], []) ->
+    do_next(N1 + Carry, List1, []);
+do(0, [], []) -> [];
+do(Carry, [], []) -> [Carry].
+
+do_next(N, List1, List2) when N >= 10 ->
+    [N - 10 | do(1, List1, List2)];
+do_next(N, List1, List2) ->
+    [N | do(0, List1, List2)].
