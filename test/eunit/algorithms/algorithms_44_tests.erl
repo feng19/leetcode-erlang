@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 44
+%%% name: Wildcard Matching
+%%% describe: 通配符匹配
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/wildcard-matching
+%%% solution_url: https://leetcode-cn.com/problems/wildcard-matching/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_44_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

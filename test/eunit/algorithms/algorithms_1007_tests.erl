@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1007
+%%% name: Minimum Domino Rotations For Equal Row
+%%% describe: 行相等的最少多米诺旋转
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row
+%%% solution_url: https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1007_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

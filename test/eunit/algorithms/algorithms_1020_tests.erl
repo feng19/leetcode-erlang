@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1020
+%%% name: Number of Enclaves
+%%% describe: 飞地的数量
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/number-of-enclaves
+%%% solution_url: https://leetcode-cn.com/problems/number-of-enclaves/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1020_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

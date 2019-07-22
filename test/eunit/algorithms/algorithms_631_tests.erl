@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 631
+%%% name: Design Excel Sum Formula
+%%% describe: 设计 Excel 求和公式
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/design-excel-sum-formula
+%%% solution_url: https://leetcode-cn.com/problems/design-excel-sum-formula/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_631_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

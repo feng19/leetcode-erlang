@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 411
+%%% name: Minimum Unique Word Abbreviation
+%%% describe: 最短特异单词缩写
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/minimum-unique-word-abbreviation
+%%% solution_url: https://leetcode-cn.com/problems/minimum-unique-word-abbreviation/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_411_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

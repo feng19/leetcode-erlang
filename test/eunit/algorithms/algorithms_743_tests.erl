@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 743
+%%% name: Network Delay Time
+%%% describe: 网络延迟时间
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/network-delay-time
+%%% solution_url: https://leetcode-cn.com/problems/network-delay-time/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_743_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

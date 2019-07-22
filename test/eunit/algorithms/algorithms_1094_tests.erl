@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1094
+%%% name: Car Pooling
+%%% describe: 拼车
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/car-pooling
+%%% solution_url: https://leetcode-cn.com/problems/car-pooling/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1094_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

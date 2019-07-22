@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 46
+%%% name: Permutations
+%%% describe: 全排列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/permutations
+%%% solution_url: https://leetcode-cn.com/problems/permutations/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_46_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

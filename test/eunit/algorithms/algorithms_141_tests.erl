@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 141
+%%% name: Linked List Cycle
+%%% describe: 环形链表
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/linked-list-cycle
+%%% solution_url: https://leetcode-cn.com/problems/linked-list-cycle/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_141_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

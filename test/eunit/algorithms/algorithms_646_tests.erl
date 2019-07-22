@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 646
+%%% name: Maximum Length of Pair Chain
+%%% describe: 最长数对链
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/maximum-length-of-pair-chain
+%%% solution_url: https://leetcode-cn.com/problems/maximum-length-of-pair-chain/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_646_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

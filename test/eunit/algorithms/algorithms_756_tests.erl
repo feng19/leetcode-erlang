@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 756
+%%% name: Pyramid Transition Matrix
+%%% describe: 金字塔转换矩阵
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/pyramid-transition-matrix
+%%% solution_url: https://leetcode-cn.com/problems/pyramid-transition-matrix/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_756_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

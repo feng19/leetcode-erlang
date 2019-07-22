@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1006
+%%% name: Clumsy Factorial
+%%% describe: 笨阶乘
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/clumsy-factorial
+%%% solution_url: https://leetcode-cn.com/problems/clumsy-factorial/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1006_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

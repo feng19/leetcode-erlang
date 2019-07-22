@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 443
+%%% name: String Compression
+%%% describe: 压缩字符串
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/string-compression
+%%% solution_url: https://leetcode-cn.com/problems/string-compression/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_443_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

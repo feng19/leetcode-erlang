@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1047
+%%% name: Remove All Adjacent Duplicates In String
+%%% describe: 删除字符串中的所有相邻重复项
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string
+%%% solution_url: https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1047_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

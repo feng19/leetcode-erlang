@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 531
+%%% name: Lonely Pixel I
+%%% describe: 孤独像素 I
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/lonely-pixel-i
+%%% solution_url: https://leetcode-cn.com/problems/lonely-pixel-i/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_531_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

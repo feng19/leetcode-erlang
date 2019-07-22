@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 738
+%%% name: Monotone Increasing Digits
+%%% describe: 单调递增的数字
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/monotone-increasing-digits
+%%% solution_url: https://leetcode-cn.com/problems/monotone-increasing-digits/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_738_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

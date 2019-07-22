@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 206
+%%% name: Reverse Linked List
+%%% describe: 反转链表
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/reverse-linked-list
+%%% solution_url: https://leetcode-cn.com/problems/reverse-linked-list/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_206_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

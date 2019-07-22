@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 676
+%%% name: Implement Magic Dictionary
+%%% describe: 实现一个魔法字典
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/implement-magic-dictionary
+%%% solution_url: https://leetcode-cn.com/problems/implement-magic-dictionary/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_676_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

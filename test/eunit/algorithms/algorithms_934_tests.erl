@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 934
+%%% name: Shortest Bridge
+%%% describe: 最短的桥
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/shortest-bridge
+%%% solution_url: https://leetcode-cn.com/problems/shortest-bridge/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_934_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

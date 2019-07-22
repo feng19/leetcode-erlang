@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 441
+%%% name: Arranging Coins
+%%% describe: 排列硬币
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/arranging-coins
+%%% solution_url: https://leetcode-cn.com/problems/arranging-coins/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_441_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

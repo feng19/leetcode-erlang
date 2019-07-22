@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 795
+%%% name: Number of Subarrays with Bounded Maximum
+%%% describe: 区间子数组个数
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum
+%%% solution_url: https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_795_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

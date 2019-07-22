@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 386
+%%% name: Lexicographical Numbers
+%%% describe: 字典序排数
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/lexicographical-numbers
+%%% solution_url: https://leetcode-cn.com/problems/lexicographical-numbers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_386_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

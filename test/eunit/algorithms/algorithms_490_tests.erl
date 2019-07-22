@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 490
+%%% name: The Maze
+%%% describe: 迷宫
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/the-maze
+%%% solution_url: https://leetcode-cn.com/problems/the-maze/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_490_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 372
+%%% name: Super Pow
+%%% describe: 超级次方
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/super-pow
+%%% solution_url: https://leetcode-cn.com/problems/super-pow/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_372_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

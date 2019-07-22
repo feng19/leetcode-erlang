@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 517
+%%% name: Super Washing Machines
+%%% describe: 超级洗衣机
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/super-washing-machines
+%%% solution_url: https://leetcode-cn.com/problems/super-washing-machines/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_517_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

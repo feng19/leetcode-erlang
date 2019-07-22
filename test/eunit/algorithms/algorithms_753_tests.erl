@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 753
+%%% name: Cracking the Safe
+%%% describe: 破解保险箱
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/cracking-the-safe
+%%% solution_url: https://leetcode-cn.com/problems/cracking-the-safe/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_753_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

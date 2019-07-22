@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1025
+%%% name: Divisor Game
+%%% describe: 除数博弈
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/divisor-game
+%%% solution_url: https://leetcode-cn.com/problems/divisor-game/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1025_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

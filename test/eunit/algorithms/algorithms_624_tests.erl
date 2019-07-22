@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 624
+%%% name: Maximum Distance in Arrays
+%%% describe: 数组列表中的最大距离
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/maximum-distance-in-arrays
+%%% solution_url: https://leetcode-cn.com/problems/maximum-distance-in-arrays/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_624_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

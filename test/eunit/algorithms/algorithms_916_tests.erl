@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 916
+%%% name: Word Subsets
+%%% describe: 单词子集
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/word-subsets
+%%% solution_url: https://leetcode-cn.com/problems/word-subsets/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_916_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 560
+%%% name: Subarray Sum Equals K
+%%% describe: 和为K的子数组
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/subarray-sum-equals-k
+%%% solution_url: https://leetcode-cn.com/problems/subarray-sum-equals-k/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_560_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

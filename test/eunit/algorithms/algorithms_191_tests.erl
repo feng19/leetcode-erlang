@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 191
+%%% name: Number of 1 Bits
+%%% describe: 位1的个数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/number-of-1-bits
+%%% solution_url: https://leetcode-cn.com/problems/number-of-1-bits/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_191_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 225
+%%% name: Implement Stack using Queues
+%%% describe: 用队列实现栈
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/implement-stack-using-queues
+%%% solution_url: https://leetcode-cn.com/problems/implement-stack-using-queues/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_225_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

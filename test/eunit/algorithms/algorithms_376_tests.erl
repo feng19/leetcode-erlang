@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 376
+%%% name: Wiggle Subsequence
+%%% describe: 摆动序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/wiggle-subsequence
+%%% solution_url: https://leetcode-cn.com/problems/wiggle-subsequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_376_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

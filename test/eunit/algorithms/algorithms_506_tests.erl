@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 506
+%%% name: Relative Ranks
+%%% describe: 相对名次
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/relative-ranks
+%%% solution_url: https://leetcode-cn.com/problems/relative-ranks/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_506_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

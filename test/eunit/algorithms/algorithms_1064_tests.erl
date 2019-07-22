@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1064
+%%% name: Fixed Point
+%%% describe: 不动点
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/fixed-point
+%%% solution_url: https://leetcode-cn.com/problems/fixed-point/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1064_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

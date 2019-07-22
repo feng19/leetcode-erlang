@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 807
+%%% name: Max Increase to Keep City Skyline
+%%% describe: 保持城市天际线
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline
+%%% solution_url: https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_807_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

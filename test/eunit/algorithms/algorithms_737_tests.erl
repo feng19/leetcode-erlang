@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 737
+%%% name: Sentence Similarity II
+%%% describe: 句子相似性 II
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/sentence-similarity-ii
+%%% solution_url: https://leetcode-cn.com/problems/sentence-similarity-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_737_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

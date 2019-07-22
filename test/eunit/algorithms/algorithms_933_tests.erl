@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 933
+%%% name: Number of Recent Calls
+%%% describe: 最近的请求次数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/number-of-recent-calls
+%%% solution_url: https://leetcode-cn.com/problems/number-of-recent-calls/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_933_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

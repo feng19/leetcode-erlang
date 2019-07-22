@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 594
+%%% name: Longest Harmonious Subsequence
+%%% describe: 最长和谐子序列
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/longest-harmonious-subsequence
+%%% solution_url: https://leetcode-cn.com/problems/longest-harmonious-subsequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_594_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

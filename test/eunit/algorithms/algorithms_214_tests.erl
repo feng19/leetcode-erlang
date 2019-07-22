@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 214
+%%% name: Shortest Palindrome
+%%% describe: 最短回文串
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/shortest-palindrome
+%%% solution_url: https://leetcode-cn.com/problems/shortest-palindrome/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_214_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1044
+%%% name: Longest Duplicate Substring
+%%% describe: 最长重复子串
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/longest-duplicate-substring
+%%% solution_url: https://leetcode-cn.com/problems/longest-duplicate-substring/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1044_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

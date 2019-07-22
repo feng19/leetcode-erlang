@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 42
+%%% name: Trapping Rain Water
+%%% describe: 接雨水
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/trapping-rain-water
+%%% solution_url: https://leetcode-cn.com/problems/trapping-rain-water/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_42_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

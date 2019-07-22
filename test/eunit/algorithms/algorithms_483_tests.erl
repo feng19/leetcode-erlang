@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 483
+%%% name: Smallest Good Base
+%%% describe: 最小好进制
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/smallest-good-base
+%%% solution_url: https://leetcode-cn.com/problems/smallest-good-base/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_483_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

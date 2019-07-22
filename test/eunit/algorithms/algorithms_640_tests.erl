@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 640
+%%% name: Solve the Equation
+%%% describe: 求解方程
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/solve-the-equation
+%%% solution_url: https://leetcode-cn.com/problems/solve-the-equation/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_640_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 959
+%%% name: Regions Cut By Slashes
+%%% describe: 由斜杠划分区域
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/regions-cut-by-slashes
+%%% solution_url: https://leetcode-cn.com/problems/regions-cut-by-slashes/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_959_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

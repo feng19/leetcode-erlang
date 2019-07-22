@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 110
+%%% name: Balanced Binary Tree
+%%% describe: 平衡二叉树
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/balanced-binary-tree
+%%% solution_url: https://leetcode-cn.com/problems/balanced-binary-tree/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_110_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

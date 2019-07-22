@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1048
+%%% name: Longest String Chain
+%%% describe: 最长字符串链
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/longest-string-chain
+%%% solution_url: https://leetcode-cn.com/problems/longest-string-chain/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1048_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

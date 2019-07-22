@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 460
+%%% name: LFU Cache
+%%% describe: LFU缓存
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/lfu-cache
+%%% solution_url: https://leetcode-cn.com/problems/lfu-cache/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_460_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

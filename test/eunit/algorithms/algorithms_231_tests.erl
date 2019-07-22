@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 231
+%%% name: Power of Two
+%%% describe: 2的幂
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/power-of-two
+%%% solution_url: https://leetcode-cn.com/problems/power-of-two/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_231_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

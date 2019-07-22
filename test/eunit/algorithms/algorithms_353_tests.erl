@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 353
+%%% name: Design Snake Game
+%%% describe: 贪吃蛇
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/design-snake-game
+%%% solution_url: https://leetcode-cn.com/problems/design-snake-game/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_353_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

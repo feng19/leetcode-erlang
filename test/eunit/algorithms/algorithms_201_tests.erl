@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 201
+%%% name: Bitwise AND of Numbers Range
+%%% describe: 数字范围按位与
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/bitwise-and-of-numbers-range
+%%% solution_url: https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_201_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

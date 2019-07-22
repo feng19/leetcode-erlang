@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1093
+%%% name: Statistics from a Large Sample
+%%% describe: 大样本统计
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/statistics-from-a-large-sample
+%%% solution_url: https://leetcode-cn.com/problems/statistics-from-a-large-sample/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1093_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

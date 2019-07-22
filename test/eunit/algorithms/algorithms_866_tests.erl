@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 866
+%%% name: Prime Palindrome
+%%% describe: 回文素数
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/prime-palindrome
+%%% solution_url: https://leetcode-cn.com/problems/prime-palindrome/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_866_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

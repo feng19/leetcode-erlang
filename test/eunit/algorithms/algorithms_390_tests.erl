@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 390
+%%% name: Elimination Game
+%%% describe: 消除游戏
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/elimination-game
+%%% solution_url: https://leetcode-cn.com/problems/elimination-game/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_390_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

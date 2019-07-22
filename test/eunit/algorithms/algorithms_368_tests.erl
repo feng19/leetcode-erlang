@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 368
+%%% name: Largest Divisible Subset
+%%% describe: 最大整除子集
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/largest-divisible-subset
+%%% solution_url: https://leetcode-cn.com/problems/largest-divisible-subset/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_368_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 573
+%%% name: Squirrel Simulation
+%%% describe: 松鼠模拟
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/squirrel-simulation
+%%% solution_url: https://leetcode-cn.com/problems/squirrel-simulation/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_573_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1122
+%%% name: Relative Sort Array
+%%% describe: 数组的相对排序
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/relative-sort-array
+%%% solution_url: https://leetcode-cn.com/problems/relative-sort-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1122_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 72
+%%% name: Edit Distance
+%%% describe: 编辑距离
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/edit-distance
+%%% solution_url: https://leetcode-cn.com/problems/edit-distance/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_72_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

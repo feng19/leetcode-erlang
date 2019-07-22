@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 205
+%%% name: Isomorphic Strings
+%%% describe: 同构字符串
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/isomorphic-strings
+%%% solution_url: https://leetcode-cn.com/problems/isomorphic-strings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_205_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

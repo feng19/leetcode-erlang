@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 976
+%%% name: Largest Perimeter Triangle
+%%% describe: 三角形的最大周长
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/largest-perimeter-triangle
+%%% solution_url: https://leetcode-cn.com/problems/largest-perimeter-triangle/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_976_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

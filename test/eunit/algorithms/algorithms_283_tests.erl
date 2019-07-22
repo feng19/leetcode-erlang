@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 283
+%%% name: Move Zeroes
+%%% describe: 移动零
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/move-zeroes
+%%% solution_url: https://leetcode-cn.com/problems/move-zeroes/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_283_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

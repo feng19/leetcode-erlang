@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1071
+%%% name: Greatest Common Divisor of Strings
+%%% describe: 字符串的最大公因子
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/greatest-common-divisor-of-strings
+%%% solution_url: https://leetcode-cn.com/problems/greatest-common-divisor-of-strings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1071_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

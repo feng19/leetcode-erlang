@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 535
+%%% name: Encode and Decode TinyURL
+%%% describe: TinyURL 的加密与解密
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/encode-and-decode-tinyurl
+%%% solution_url: https://leetcode-cn.com/problems/encode-and-decode-tinyurl/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_535_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

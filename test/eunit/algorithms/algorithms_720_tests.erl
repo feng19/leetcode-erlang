@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 720
+%%% name: Longest Word in Dictionary
+%%% describe: 词典中最长的单词
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/longest-word-in-dictionary
+%%% solution_url: https://leetcode-cn.com/problems/longest-word-in-dictionary/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_720_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

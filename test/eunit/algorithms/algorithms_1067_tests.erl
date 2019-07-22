@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1067
+%%% name: Digit Count in Range
+%%% describe: 范围内的数字计数
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/digit-count-in-range
+%%% solution_url: https://leetcode-cn.com/problems/digit-count-in-range/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1067_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

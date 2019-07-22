@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 805
+%%% name: Split Array With Same Average
+%%% describe: 数组的均值分割
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/split-array-with-same-average
+%%% solution_url: https://leetcode-cn.com/problems/split-array-with-same-average/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_805_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

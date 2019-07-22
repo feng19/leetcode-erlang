@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 48
+%%% name: Rotate Image
+%%% describe: 旋转图像
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/rotate-image
+%%% solution_url: https://leetcode-cn.com/problems/rotate-image/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_48_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

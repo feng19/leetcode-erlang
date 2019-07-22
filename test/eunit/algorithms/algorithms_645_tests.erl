@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 645
+%%% name: Set Mismatch
+%%% describe: 错误的集合
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/set-mismatch
+%%% solution_url: https://leetcode-cn.com/problems/set-mismatch/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_645_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

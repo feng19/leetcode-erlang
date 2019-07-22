@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 871
+%%% name: Minimum Number of Refueling Stops
+%%% describe: 最低加油次数
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/minimum-number-of-refueling-stops
+%%% solution_url: https://leetcode-cn.com/problems/minimum-number-of-refueling-stops/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_871_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

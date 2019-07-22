@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 420
+%%% name: Strong Password Checker
+%%% describe: 强密码检验器
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/strong-password-checker
+%%% solution_url: https://leetcode-cn.com/problems/strong-password-checker/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_420_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

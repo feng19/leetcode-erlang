@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 989
+%%% name: Add to Array-Form of Integer
+%%% describe: 数组形式的整数加法
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/add-to-array-form-of-integer
+%%% solution_url: https://leetcode-cn.com/problems/add-to-array-form-of-integer/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_989_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

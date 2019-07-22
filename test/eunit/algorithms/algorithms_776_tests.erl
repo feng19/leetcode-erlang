@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 776
+%%% name: Split BST
+%%% describe: 拆分二叉搜索树
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/split-bst
+%%% solution_url: https://leetcode-cn.com/problems/split-bst/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_776_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

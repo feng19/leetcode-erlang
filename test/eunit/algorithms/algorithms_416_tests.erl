@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 416
+%%% name: Partition Equal Subset Sum
+%%% describe: 分割等和子集
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/partition-equal-subset-sum
+%%% solution_url: https://leetcode-cn.com/problems/partition-equal-subset-sum/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_416_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

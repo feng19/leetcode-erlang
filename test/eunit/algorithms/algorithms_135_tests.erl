@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 135
+%%% name: Candy
+%%% describe: 分发糖果
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/candy
+%%% solution_url: https://leetcode-cn.com/problems/candy/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_135_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

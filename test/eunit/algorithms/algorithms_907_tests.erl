@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 907
+%%% name: Sum of Subarray Minimums
+%%% describe: 子数组的最小值之和
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/sum-of-subarray-minimums
+%%% solution_url: https://leetcode-cn.com/problems/sum-of-subarray-minimums/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_907_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

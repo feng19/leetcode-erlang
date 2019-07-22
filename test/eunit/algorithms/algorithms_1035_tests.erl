@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1035
+%%% name: Uncrossed Lines
+%%% describe: 不相交的线
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/uncrossed-lines
+%%% solution_url: https://leetcode-cn.com/problems/uncrossed-lines/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1035_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

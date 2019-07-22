@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 351
+%%% name: Android Unlock Patterns
+%%% describe: 安卓系统手势解锁
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/android-unlock-patterns
+%%% solution_url: https://leetcode-cn.com/problems/android-unlock-patterns/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_351_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

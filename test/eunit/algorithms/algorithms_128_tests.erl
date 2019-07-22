@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 128
+%%% name: Longest Consecutive Sequence
+%%% describe: 最长连续序列
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/longest-consecutive-sequence
+%%% solution_url: https://leetcode-cn.com/problems/longest-consecutive-sequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_128_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

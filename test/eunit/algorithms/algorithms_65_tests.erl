@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 65
+%%% name: Valid Number
+%%% describe: 有效数字
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/valid-number
+%%% solution_url: https://leetcode-cn.com/problems/valid-number/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_65_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

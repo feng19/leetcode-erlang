@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 874
+%%% name: Walking Robot Simulation
+%%% describe: 模拟行走机器人
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/walking-robot-simulation
+%%% solution_url: https://leetcode-cn.com/problems/walking-robot-simulation/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_874_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

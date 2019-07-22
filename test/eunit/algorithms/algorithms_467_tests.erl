@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 467
+%%% name: Unique Substrings in Wraparound String
+%%% describe: 环绕字符串中唯一的子字符串
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string
+%%% solution_url: https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_467_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

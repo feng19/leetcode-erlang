@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 658
+%%% name: Find K Closest Elements
+%%% describe: 找到 K 个最接近的元素
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/find-k-closest-elements
+%%% solution_url: https://leetcode-cn.com/problems/find-k-closest-elements/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_658_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 306
+%%% name: Additive Number
+%%% describe: 累加数
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/additive-number
+%%% solution_url: https://leetcode-cn.com/problems/additive-number/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_306_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

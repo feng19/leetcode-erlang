@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 842
+%%% name: Split Array into Fibonacci Sequence
+%%% describe: 将数组拆分成斐波那契序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence
+%%% solution_url: https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_842_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

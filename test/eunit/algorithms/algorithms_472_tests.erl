@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 472
+%%% name: Concatenated Words
+%%% describe: 连接词
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/concatenated-words
+%%% solution_url: https://leetcode-cn.com/problems/concatenated-words/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_472_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

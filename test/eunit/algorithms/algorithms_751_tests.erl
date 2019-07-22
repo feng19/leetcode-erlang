@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 751
+%%% name: IP to CIDR
+%%% describe: IP 到 CIDR
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/ip-to-cidr
+%%% solution_url: https://leetcode-cn.com/problems/ip-to-cidr/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_751_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

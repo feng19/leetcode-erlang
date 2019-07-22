@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 837
+%%% name: New 21 Game
+%%% describe: 新21点
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/new-21-game
+%%% solution_url: https://leetcode-cn.com/problems/new-21-game/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_837_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

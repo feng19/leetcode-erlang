@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 754
+%%% name: Reach a Number
+%%% describe: 到达终点数字
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/reach-a-number
+%%% solution_url: https://leetcode-cn.com/problems/reach-a-number/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_754_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

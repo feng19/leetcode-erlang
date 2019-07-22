@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 227
+%%% name: Basic Calculator II
+%%% describe: 基本计算器 II
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/basic-calculator-ii
+%%% solution_url: https://leetcode-cn.com/problems/basic-calculator-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_227_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

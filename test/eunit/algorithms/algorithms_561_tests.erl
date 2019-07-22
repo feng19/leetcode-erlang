@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 561
+%%% name: Array Partition I
+%%% describe: 数组拆分 I
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/array-partition-i
+%%% solution_url: https://leetcode-cn.com/problems/array-partition-i/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_561_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

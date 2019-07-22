@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 450
+%%% name: Delete Node in a BST
+%%% describe: 删除二叉搜索树中的节点
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/delete-node-in-a-bst
+%%% solution_url: https://leetcode-cn.com/problems/delete-node-in-a-bst/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_450_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

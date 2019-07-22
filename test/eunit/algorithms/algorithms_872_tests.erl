@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 872
+%%% name: Leaf-Similar Trees
+%%% describe: 叶子相似的树
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/leaf-similar-trees
+%%% solution_url: https://leetcode-cn.com/problems/leaf-similar-trees/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_872_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

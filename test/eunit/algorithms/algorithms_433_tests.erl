@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 433
+%%% name: Minimum Genetic Mutation
+%%% describe: 最小基因变化
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/minimum-genetic-mutation
+%%% solution_url: https://leetcode-cn.com/problems/minimum-genetic-mutation/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_433_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

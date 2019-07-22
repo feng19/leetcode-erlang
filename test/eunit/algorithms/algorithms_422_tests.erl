@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 422
+%%% name: Valid Word Square
+%%% describe: 有效的单词方块
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/valid-word-square
+%%% solution_url: https://leetcode-cn.com/problems/valid-word-square/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_422_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

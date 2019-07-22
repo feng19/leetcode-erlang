@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 27
+%%% name: Remove Element
+%%% describe: 移除元素
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/remove-element
+%%% solution_url: https://leetcode-cn.com/problems/remove-element/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_27_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 242
+%%% name: Valid Anagram
+%%% describe: 有效的字母异位词
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/valid-anagram
+%%% solution_url: https://leetcode-cn.com/problems/valid-anagram/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_242_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

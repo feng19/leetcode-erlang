@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 827
+%%% name: Making A Large Island
+%%% describe: 最大人工岛
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/making-a-large-island
+%%% solution_url: https://leetcode-cn.com/problems/making-a-large-island/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_827_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

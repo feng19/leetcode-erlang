@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 868
+%%% name: Binary Gap
+%%% describe: 二进制间距
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/binary-gap
+%%% solution_url: https://leetcode-cn.com/problems/binary-gap/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_868_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

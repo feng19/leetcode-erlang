@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 639
+%%% name: Decode Ways II
+%%% describe: 解码方法 2
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/decode-ways-ii
+%%% solution_url: https://leetcode-cn.com/problems/decode-ways-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_639_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

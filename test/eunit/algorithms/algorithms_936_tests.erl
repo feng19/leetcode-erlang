@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 936
+%%% name: Stamping The Sequence
+%%% describe: 戳印序列
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/stamping-the-sequence
+%%% solution_url: https://leetcode-cn.com/problems/stamping-the-sequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_936_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

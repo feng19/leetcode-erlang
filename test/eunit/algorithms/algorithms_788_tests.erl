@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 788
+%%% name: Rotated Digits
+%%% describe: 旋转数字
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/rotated-digits
+%%% solution_url: https://leetcode-cn.com/problems/rotated-digits/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_788_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

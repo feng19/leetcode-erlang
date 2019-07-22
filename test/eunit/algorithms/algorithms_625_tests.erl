@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 625
+%%% name: Minimum Factorization
+%%% describe: 最小因式分解
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/minimum-factorization
+%%% solution_url: https://leetcode-cn.com/problems/minimum-factorization/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_625_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

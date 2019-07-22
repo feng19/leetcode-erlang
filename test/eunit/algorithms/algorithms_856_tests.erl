@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 856
+%%% name: Score of Parentheses
+%%% describe: 括号的分数
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/score-of-parentheses
+%%% solution_url: https://leetcode-cn.com/problems/score-of-parentheses/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_856_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

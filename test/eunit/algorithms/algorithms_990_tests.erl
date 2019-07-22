@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 990
+%%% name: Satisfiability of Equality Equations
+%%% describe: 等式方程的可满足性
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/satisfiability-of-equality-equations
+%%% solution_url: https://leetcode-cn.com/problems/satisfiability-of-equality-equations/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_990_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 22
+%%% name: Generate Parentheses
+%%% describe: 括号生成
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/generate-parentheses
+%%% solution_url: https://leetcode-cn.com/problems/generate-parentheses/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_22_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

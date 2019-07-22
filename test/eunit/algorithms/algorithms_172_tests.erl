@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 172
+%%% name: Factorial Trailing Zeroes
+%%% describe: 阶乘后的零
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/factorial-trailing-zeroes
+%%% solution_url: https://leetcode-cn.com/problems/factorial-trailing-zeroes/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_172_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

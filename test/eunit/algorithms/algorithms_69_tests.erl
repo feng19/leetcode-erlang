@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 69
+%%% name: Sqrt(x)
+%%% describe: x 的平方根
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/sqrtx
+%%% solution_url: https://leetcode-cn.com/problems/sqrtx/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_69_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

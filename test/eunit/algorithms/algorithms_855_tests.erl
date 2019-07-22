@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 855
+%%% name: Exam Room
+%%% describe: 考场就座
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/exam-room
+%%% solution_url: https://leetcode-cn.com/problems/exam-room/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_855_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 23
+%%% name: Merge k Sorted Lists
+%%% describe: 合并K个排序链表
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/merge-k-sorted-lists
+%%% solution_url: https://leetcode-cn.com/problems/merge-k-sorted-lists/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_23_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

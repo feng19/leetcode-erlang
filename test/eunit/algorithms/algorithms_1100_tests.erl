@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1100
+%%% name: Find K-Length Substrings With No Repeated Characters
+%%% describe: 长度为 K 的无重复字符子串
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters
+%%% solution_url: https://leetcode-cn.com/problems/find-k-length-substrings-with-no-repeated-characters/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1100_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

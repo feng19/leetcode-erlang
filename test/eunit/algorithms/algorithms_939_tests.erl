@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 939
+%%% name: Minimum Area Rectangle
+%%% describe: 最小面积矩形
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/minimum-area-rectangle
+%%% solution_url: https://leetcode-cn.com/problems/minimum-area-rectangle/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_939_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

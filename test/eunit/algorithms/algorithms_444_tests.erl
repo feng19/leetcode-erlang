@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 444
+%%% name: Sequence Reconstruction
+%%% describe: 序列重建
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/sequence-reconstruction
+%%% solution_url: https://leetcode-cn.com/problems/sequence-reconstruction/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_444_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

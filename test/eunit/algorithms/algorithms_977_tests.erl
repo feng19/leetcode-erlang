@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 977
+%%% name: Squares of a Sorted Array
+%%% describe: 有序数组的平方
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/squares-of-a-sorted-array
+%%% solution_url: https://leetcode-cn.com/problems/squares-of-a-sorted-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_977_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

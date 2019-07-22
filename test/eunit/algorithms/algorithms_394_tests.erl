@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 394
+%%% name: Decode String
+%%% describe: 字符串解码
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/decode-string
+%%% solution_url: https://leetcode-cn.com/problems/decode-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_394_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

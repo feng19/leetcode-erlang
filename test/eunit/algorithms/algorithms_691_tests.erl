@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 691
+%%% name: Stickers to Spell Word
+%%% describe: 贴纸拼词
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/stickers-to-spell-word
+%%% solution_url: https://leetcode-cn.com/problems/stickers-to-spell-word/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_691_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

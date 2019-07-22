@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 67
+%%% name: Add Binary
+%%% describe: 二进制求和
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/add-binary
+%%% solution_url: https://leetcode-cn.com/problems/add-binary/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_67_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

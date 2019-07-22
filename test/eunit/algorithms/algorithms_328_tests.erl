@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 328
+%%% name: Odd Even Linked List
+%%% describe: 奇偶链表
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/odd-even-linked-list
+%%% solution_url: https://leetcode-cn.com/problems/odd-even-linked-list/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_328_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

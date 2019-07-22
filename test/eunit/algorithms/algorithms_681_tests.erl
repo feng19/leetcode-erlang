@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 681
+%%% name: Next Closest Time
+%%% describe: 最近时刻
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/next-closest-time
+%%% solution_url: https://leetcode-cn.com/problems/next-closest-time/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_681_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

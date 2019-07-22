@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 300
+%%% name: Longest Increasing Subsequence
+%%% describe: 最长上升子序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/longest-increasing-subsequence
+%%% solution_url: https://leetcode-cn.com/problems/longest-increasing-subsequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_300_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

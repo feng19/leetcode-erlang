@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 556
+%%% name: Next Greater Element III
+%%% describe: 下一个更大元素 III
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/next-greater-element-iii
+%%% solution_url: https://leetcode-cn.com/problems/next-greater-element-iii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_556_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

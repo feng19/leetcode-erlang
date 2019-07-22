@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 758
+%%% name: Bold Words in String
+%%% describe: 字符串中的加粗单词
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/bold-words-in-string
+%%% solution_url: https://leetcode-cn.com/problems/bold-words-in-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_758_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

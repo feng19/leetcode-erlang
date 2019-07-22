@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 886
+%%% name: Possible Bipartition
+%%% describe: 可能的二分法
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/possible-bipartition
+%%% solution_url: https://leetcode-cn.com/problems/possible-bipartition/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_886_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

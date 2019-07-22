@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 320
+%%% name: Generalized Abbreviation
+%%% describe: 列举单词的全部缩写
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/generalized-abbreviation
+%%% solution_url: https://leetcode-cn.com/problems/generalized-abbreviation/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_320_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

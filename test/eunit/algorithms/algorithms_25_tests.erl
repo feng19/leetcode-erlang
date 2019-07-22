@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 25
+%%% name: Reverse Nodes in k-Group
+%%% describe: K 个一组翻转链表
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/reverse-nodes-in-k-group
+%%% solution_url: https://leetcode-cn.com/problems/reverse-nodes-in-k-group/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_25_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

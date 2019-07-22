@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 432
+%%% name: All O`one Data Structure
+%%% describe: 全 O(1) 的数据结构
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/all-oone-data-structure
+%%% solution_url: https://leetcode-cn.com/problems/all-oone-data-structure/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_432_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 792
+%%% name: Number of Matching Subsequences
+%%% describe: 匹配子序列的单词数
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/number-of-matching-subsequences
+%%% solution_url: https://leetcode-cn.com/problems/number-of-matching-subsequences/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_792_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

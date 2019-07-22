@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 76
+%%% name: Minimum Window Substring
+%%% describe: 最小覆盖子串
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/minimum-window-substring
+%%% solution_url: https://leetcode-cn.com/problems/minimum-window-substring/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_76_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

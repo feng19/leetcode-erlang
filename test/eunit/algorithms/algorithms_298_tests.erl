@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 298
+%%% name: Binary Tree Longest Consecutive Sequence
+%%% describe: 二叉树最长连续序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence
+%%% solution_url: https://leetcode-cn.com/problems/binary-tree-longest-consecutive-sequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_298_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

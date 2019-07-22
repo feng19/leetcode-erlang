@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 125
+%%% name: Valid Palindrome
+%%% describe: 验证回文串
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/valid-palindrome
+%%% solution_url: https://leetcode-cn.com/problems/valid-palindrome/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_125_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

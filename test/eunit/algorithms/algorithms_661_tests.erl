@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 661
+%%% name: Image Smoother
+%%% describe: 图片平滑器
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/image-smoother
+%%% solution_url: https://leetcode-cn.com/problems/image-smoother/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_661_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

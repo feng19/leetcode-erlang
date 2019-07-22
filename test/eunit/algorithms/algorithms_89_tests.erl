@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 89
+%%% name: Gray Code
+%%% describe: 格雷编码
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/gray-code
+%%% solution_url: https://leetcode-cn.com/problems/gray-code/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_89_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

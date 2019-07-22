@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 555
+%%% name: Split Concatenated Strings
+%%% describe: 分割连接字符串
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/split-concatenated-strings
+%%% solution_url: https://leetcode-cn.com/problems/split-concatenated-strings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_555_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

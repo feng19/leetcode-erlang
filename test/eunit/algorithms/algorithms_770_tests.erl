@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 770
+%%% name: Basic Calculator IV
+%%% describe: 基本计算器 IV
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/basic-calculator-iv
+%%% solution_url: https://leetcode-cn.com/problems/basic-calculator-iv/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_770_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 241
+%%% name: Different Ways to Add Parentheses
+%%% describe: 为运算表达式设计优先级
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/different-ways-to-add-parentheses
+%%% solution_url: https://leetcode-cn.com/problems/different-ways-to-add-parentheses/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_241_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 518
+%%% name: Coin Change 2
+%%% describe: 零钱兑换 II
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/coin-change-2
+%%% solution_url: https://leetcode-cn.com/problems/coin-change-2/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_518_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

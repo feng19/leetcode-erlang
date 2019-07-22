@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 502
+%%% name: IPO
+%%% describe: IPO
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/ipo
+%%% solution_url: https://leetcode-cn.com/problems/ipo/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_502_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

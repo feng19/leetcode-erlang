@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 525
+%%% name: Contiguous Array
+%%% describe: 连续数组
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/contiguous-array
+%%% solution_url: https://leetcode-cn.com/problems/contiguous-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_525_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

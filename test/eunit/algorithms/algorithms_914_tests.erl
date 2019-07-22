@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 914
+%%% name: X of a Kind in a Deck of Cards
+%%% describe: 卡牌分组
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards
+%%% solution_url: https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_914_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

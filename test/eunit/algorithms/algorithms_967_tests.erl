@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 967
+%%% name: Numbers With Same Consecutive Differences
+%%% describe: 连续差相同的数字
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences
+%%% solution_url: https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_967_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

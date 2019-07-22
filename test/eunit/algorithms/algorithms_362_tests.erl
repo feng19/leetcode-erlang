@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 362
+%%% name: Design Hit Counter
+%%% describe: 敲击计数器
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/design-hit-counter
+%%% solution_url: https://leetcode-cn.com/problems/design-hit-counter/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_362_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 286
+%%% name: Walls and Gates
+%%% describe: 墙与门
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/walls-and-gates
+%%% solution_url: https://leetcode-cn.com/problems/walls-and-gates/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_286_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

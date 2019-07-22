@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 388
+%%% name: Longest Absolute File Path
+%%% describe: 文件的最长绝对路径
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/longest-absolute-file-path
+%%% solution_url: https://leetcode-cn.com/problems/longest-absolute-file-path/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_388_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

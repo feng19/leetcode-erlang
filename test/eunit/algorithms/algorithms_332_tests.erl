@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 332
+%%% name: Reconstruct Itinerary
+%%% describe: 重新安排行程
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/reconstruct-itinerary
+%%% solution_url: https://leetcode-cn.com/problems/reconstruct-itinerary/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_332_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

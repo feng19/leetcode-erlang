@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 745
+%%% name: Prefix and Suffix Search
+%%% describe: 前缀和后缀搜索
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/prefix-and-suffix-search
+%%% solution_url: https://leetcode-cn.com/problems/prefix-and-suffix-search/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_745_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

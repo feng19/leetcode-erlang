@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 79
+%%% name: Word Search
+%%% describe: 单词搜索
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/word-search
+%%% solution_url: https://leetcode-cn.com/problems/word-search/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_79_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

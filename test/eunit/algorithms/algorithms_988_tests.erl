@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 988
+%%% name: Smallest String Starting From Leaf
+%%% describe: 从叶结点开始的最小字符串
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/smallest-string-starting-from-leaf
+%%% solution_url: https://leetcode-cn.com/problems/smallest-string-starting-from-leaf/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_988_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

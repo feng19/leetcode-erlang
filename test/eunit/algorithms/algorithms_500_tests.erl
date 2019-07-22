@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 500
+%%% name: Keyboard Row
+%%% describe: 键盘行
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/keyboard-row
+%%% solution_url: https://leetcode-cn.com/problems/keyboard-row/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_500_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

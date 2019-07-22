@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 400
+%%% name: Nth Digit
+%%% describe: 第N个数字
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/nth-digit
+%%% solution_url: https://leetcode-cn.com/problems/nth-digit/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_400_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

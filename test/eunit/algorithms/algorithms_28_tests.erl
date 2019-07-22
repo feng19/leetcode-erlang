@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 28
+%%% name: Implement strStr()
+%%% describe: 实现strStr()
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/implement-strstr
+%%% solution_url: https://leetcode-cn.com/problems/implement-strstr/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_28_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

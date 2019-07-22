@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 78
+%%% name: Subsets
+%%% describe: 子集
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/subsets
+%%% solution_url: https://leetcode-cn.com/problems/subsets/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_78_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

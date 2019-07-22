@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 396
+%%% name: Rotate Function
+%%% describe: 旋转函数
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/rotate-function
+%%% solution_url: https://leetcode-cn.com/problems/rotate-function/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_396_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

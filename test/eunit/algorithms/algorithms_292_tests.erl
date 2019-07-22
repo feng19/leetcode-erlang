@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 292
+%%% name: Nim Game
+%%% describe: Nim 游戏
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/nim-game
+%%% solution_url: https://leetcode-cn.com/problems/nim-game/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_292_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

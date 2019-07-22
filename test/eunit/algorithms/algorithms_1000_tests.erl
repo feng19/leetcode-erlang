@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1000
+%%% name: Minimum Cost to Merge Stones
+%%% describe: 合并石头的最低成本
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/minimum-cost-to-merge-stones
+%%% solution_url: https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1000_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

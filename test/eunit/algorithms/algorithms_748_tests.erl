@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 748
+%%% name: Shortest Completing Word
+%%% describe: 最短完整词
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/shortest-completing-word
+%%% solution_url: https://leetcode-cn.com/problems/shortest-completing-word/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_748_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

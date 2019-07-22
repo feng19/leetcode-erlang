@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 413
+%%% name: Arithmetic Slices
+%%% describe: 等差数列划分
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/arithmetic-slices
+%%% solution_url: https://leetcode-cn.com/problems/arithmetic-slices/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_413_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

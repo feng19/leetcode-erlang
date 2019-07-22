@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1008
+%%% name: Construct Binary Search Tree from Preorder Traversal
+%%% describe: 先序遍历构造二叉树
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal
+%%% solution_url: https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1008_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

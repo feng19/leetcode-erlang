@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 155
+%%% name: Min Stack
+%%% describe: 最小栈
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/min-stack
+%%% solution_url: https://leetcode-cn.com/problems/min-stack/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_155_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 799
+%%% name: Champagne Tower
+%%% describe: 香槟塔
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/champagne-tower
+%%% solution_url: https://leetcode-cn.com/problems/champagne-tower/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_799_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

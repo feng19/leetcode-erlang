@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 238
+%%% name: Product of Array Except Self
+%%% describe: 除自身以外数组的乘积
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/product-of-array-except-self
+%%% solution_url: https://leetcode-cn.com/problems/product-of-array-except-self/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_238_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

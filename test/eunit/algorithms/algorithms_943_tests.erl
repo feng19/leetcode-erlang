@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 943
+%%% name: Find the Shortest Superstring
+%%% describe: 最短超级串
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/find-the-shortest-superstring
+%%% solution_url: https://leetcode-cn.com/problems/find-the-shortest-superstring/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_943_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

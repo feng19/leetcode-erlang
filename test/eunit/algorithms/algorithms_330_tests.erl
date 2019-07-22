@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 330
+%%% name: Patching Array
+%%% describe: 按要求补齐数组
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/patching-array
+%%% solution_url: https://leetcode-cn.com/problems/patching-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_330_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

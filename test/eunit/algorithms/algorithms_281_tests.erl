@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 281
+%%% name: Zigzag Iterator
+%%% describe: 锯齿迭代器
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/zigzag-iterator
+%%% solution_url: https://leetcode-cn.com/problems/zigzag-iterator/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_281_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

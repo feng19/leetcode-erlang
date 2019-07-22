@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 51
+%%% name: N-Queens
+%%% describe: N皇后
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/n-queens
+%%% solution_url: https://leetcode-cn.com/problems/n-queens/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_51_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

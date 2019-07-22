@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 428
+%%% name: Serialize and Deserialize N-ary Tree
+%%% describe: 序列化和反序列化 N 叉树
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree
+%%% solution_url: https://leetcode-cn.com/problems/serialize-and-deserialize-n-ary-tree/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_428_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

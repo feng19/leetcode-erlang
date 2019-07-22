@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 494
+%%% name: Target Sum
+%%% describe: 目标和
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/target-sum
+%%% solution_url: https://leetcode-cn.com/problems/target-sum/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_494_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

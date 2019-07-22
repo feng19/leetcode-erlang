@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1079
+%%% name: Letter Tile Possibilities
+%%% describe: 活字印刷
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/letter-tile-possibilities
+%%% solution_url: https://leetcode-cn.com/problems/letter-tile-possibilities/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1079_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 598
+%%% name: Range Addition II
+%%% describe: 范围求和 II
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/range-addition-ii
+%%% solution_url: https://leetcode-cn.com/problems/range-addition-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_598_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 817
+%%% name: Linked List Components
+%%% describe: 链表组件
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/linked-list-components
+%%% solution_url: https://leetcode-cn.com/problems/linked-list-components/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_817_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

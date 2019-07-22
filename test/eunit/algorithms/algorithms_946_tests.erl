@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 946
+%%% name: Validate Stack Sequences
+%%% describe: 验证栈序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/validate-stack-sequences
+%%% solution_url: https://leetcode-cn.com/problems/validate-stack-sequences/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_946_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

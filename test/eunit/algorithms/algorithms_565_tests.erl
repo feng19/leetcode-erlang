@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 565
+%%% name: Array Nesting
+%%% describe: 数组嵌套
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/array-nesting
+%%% solution_url: https://leetcode-cn.com/problems/array-nesting/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_565_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

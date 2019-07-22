@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1088
+%%% name: Confusing Number II
+%%% describe: 易混淆数 II
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/confusing-number-ii
+%%% solution_url: https://leetcode-cn.com/problems/confusing-number-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1088_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

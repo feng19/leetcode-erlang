@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 365
+%%% name: Water and Jug Problem
+%%% describe: 水壶问题
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/water-and-jug-problem
+%%% solution_url: https://leetcode-cn.com/problems/water-and-jug-problem/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_365_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1105
+%%% name: Filling Bookcase Shelves
+%%% describe: 填充书架
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/filling-bookcase-shelves
+%%% solution_url: https://leetcode-cn.com/problems/filling-bookcase-shelves/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1105_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

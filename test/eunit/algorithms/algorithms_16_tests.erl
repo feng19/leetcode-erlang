@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 16
+%%% name: 3Sum Closest
+%%% describe: 最接近的三数之和
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/3sum-closest
+%%% solution_url: https://leetcode-cn.com/problems/3sum-closest/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_16_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

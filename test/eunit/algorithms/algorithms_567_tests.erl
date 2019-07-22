@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 567
+%%% name: Permutation in String
+%%% describe: 字符串的排列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/permutation-in-string
+%%% solution_url: https://leetcode-cn.com/problems/permutation-in-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_567_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

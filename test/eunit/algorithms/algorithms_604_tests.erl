@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 604
+%%% name: Design Compressed String Iterator
+%%% describe: 迭代压缩字符串
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/design-compressed-string-iterator
+%%% solution_url: https://leetcode-cn.com/problems/design-compressed-string-iterator/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_604_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

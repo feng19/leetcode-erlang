@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 143
+%%% name: Reorder List
+%%% describe: 重排链表
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/reorder-list
+%%% solution_url: https://leetcode-cn.com/problems/reorder-list/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_143_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

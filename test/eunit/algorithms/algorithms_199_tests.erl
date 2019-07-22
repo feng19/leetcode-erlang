@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 199
+%%% name: Binary Tree Right Side View
+%%% describe: 二叉树的右视图
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/binary-tree-right-side-view
+%%% solution_url: https://leetcode-cn.com/problems/binary-tree-right-side-view/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_199_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

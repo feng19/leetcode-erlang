@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 58
+%%% name: Length of Last Word
+%%% describe: 最后一个单词的长度
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/length-of-last-word
+%%% solution_url: https://leetcode-cn.com/problems/length-of-last-word/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_58_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

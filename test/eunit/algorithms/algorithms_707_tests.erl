@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 707
+%%% name: Design Linked List
+%%% describe: 设计链表
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/design-linked-list
+%%% solution_url: https://leetcode-cn.com/problems/design-linked-list/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_707_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

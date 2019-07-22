@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 252
+%%% name: Meeting Rooms
+%%% describe: 会议室
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/meeting-rooms
+%%% solution_url: https://leetcode-cn.com/problems/meeting-rooms/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_252_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

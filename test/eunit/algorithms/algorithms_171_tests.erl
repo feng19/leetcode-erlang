@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 171
+%%% name: Excel Sheet Column Number
+%%% describe: Excel表列序号
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/excel-sheet-column-number
+%%% solution_url: https://leetcode-cn.com/problems/excel-sheet-column-number/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_171_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

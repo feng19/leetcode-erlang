@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 187
+%%% name: Repeated DNA Sequences
+%%% describe: 重复的DNA序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/repeated-dna-sequences
+%%% solution_url: https://leetcode-cn.com/problems/repeated-dna-sequences/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_187_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

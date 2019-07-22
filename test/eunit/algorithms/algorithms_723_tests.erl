@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 723
+%%% name: Candy Crush
+%%% describe: 粉碎糖果
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/candy-crush
+%%% solution_url: https://leetcode-cn.com/problems/candy-crush/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_723_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 859
+%%% name: Buddy Strings
+%%% describe: 亲密字符串
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/buddy-strings
+%%% solution_url: https://leetcode-cn.com/problems/buddy-strings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_859_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

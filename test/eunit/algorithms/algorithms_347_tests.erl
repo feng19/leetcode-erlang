@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 347
+%%% name: Top K Frequent Elements
+%%% describe: 前 K 个高频元素
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/top-k-frequent-elements
+%%% solution_url: https://leetcode-cn.com/problems/top-k-frequent-elements/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_347_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

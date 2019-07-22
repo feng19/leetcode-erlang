@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 291
+%%% name: Word Pattern II
+%%% describe: 单词规律 II
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/word-pattern-ii
+%%% solution_url: https://leetcode-cn.com/problems/word-pattern-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_291_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

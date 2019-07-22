@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 387
+%%% name: First Unique Character in a String
+%%% describe: 字符串中的第一个唯一字符
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/first-unique-character-in-a-string
+%%% solution_url: https://leetcode-cn.com/problems/first-unique-character-in-a-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_387_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

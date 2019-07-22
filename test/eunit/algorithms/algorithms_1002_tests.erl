@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1002
+%%% name: Find Common Characters
+%%% describe: 查找常用字符
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/find-common-characters
+%%% solution_url: https://leetcode-cn.com/problems/find-common-characters/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1002_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

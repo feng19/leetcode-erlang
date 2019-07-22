@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 498
+%%% name: Diagonal Traverse
+%%% describe: 对角线遍历
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/diagonal-traverse
+%%% solution_url: https://leetcode-cn.com/problems/diagonal-traverse/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_498_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

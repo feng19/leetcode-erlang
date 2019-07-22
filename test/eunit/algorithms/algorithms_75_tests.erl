@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 75
+%%% name: Sort Colors
+%%% describe: 颜色分类
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/sort-colors
+%%% solution_url: https://leetcode-cn.com/problems/sort-colors/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_75_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

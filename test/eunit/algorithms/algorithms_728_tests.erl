@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 728
+%%% name: Self Dividing Numbers
+%%% describe: 自除数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/self-dividing-numbers
+%%% solution_url: https://leetcode-cn.com/problems/self-dividing-numbers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_728_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

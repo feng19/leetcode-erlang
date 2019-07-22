@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 857
+%%% name: Minimum Cost to Hire K Workers
+%%% describe: 雇佣 K 名工人的最低成本
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers
+%%% solution_url: https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_857_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

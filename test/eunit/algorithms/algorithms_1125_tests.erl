@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1125
+%%% name: Smallest Sufficient Team
+%%% describe: 最小的必要团队
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/smallest-sufficient-team
+%%% solution_url: https://leetcode-cn.com/problems/smallest-sufficient-team/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1125_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 491
+%%% name: Increasing Subsequences
+%%% describe: 递增子序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/increasing-subsequences
+%%% solution_url: https://leetcode-cn.com/problems/increasing-subsequences/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_491_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

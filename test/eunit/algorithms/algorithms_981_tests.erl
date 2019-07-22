@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 981
+%%% name: Time Based Key-Value Store
+%%% describe: 基于时间的键值存储
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/time-based-key-value-store
+%%% solution_url: https://leetcode-cn.com/problems/time-based-key-value-store/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_981_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

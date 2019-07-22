@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 793
+%%% name: Preimage Size of Factorial Zeroes Function
+%%% describe: 阶乘函数后K个零
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function
+%%% solution_url: https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_793_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

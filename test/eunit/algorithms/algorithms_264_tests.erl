@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 264
+%%% name: Ugly Number II
+%%% describe: 丑数 II
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/ugly-number-ii
+%%% solution_url: https://leetcode-cn.com/problems/ugly-number-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_264_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

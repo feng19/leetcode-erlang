@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 165
+%%% name: Compare Version Numbers
+%%% describe: 比较版本号
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/compare-version-numbers
+%%% solution_url: https://leetcode-cn.com/problems/compare-version-numbers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_165_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

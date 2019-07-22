@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 385
+%%% name: Mini Parser
+%%% describe: 迷你语法分析器
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/mini-parser
+%%% solution_url: https://leetcode-cn.com/problems/mini-parser/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_385_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 653
+%%% name: Two Sum IV - Input is a BST
+%%% describe: 两数之和 IV - 输入 BST
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst
+%%% solution_url: https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_653_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

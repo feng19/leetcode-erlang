@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 397
+%%% name: Integer Replacement
+%%% describe: 整数替换
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/integer-replacement
+%%% solution_url: https://leetcode-cn.com/problems/integer-replacement/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_397_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

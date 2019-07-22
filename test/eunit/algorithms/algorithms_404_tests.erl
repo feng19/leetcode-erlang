@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 404
+%%% name: Sum of Left Leaves
+%%% describe: 左叶子之和
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/sum-of-left-leaves
+%%% solution_url: https://leetcode-cn.com/problems/sum-of-left-leaves/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_404_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

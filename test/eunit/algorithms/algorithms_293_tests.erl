@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 293
+%%% name: Flip Game
+%%% describe: 翻转游戏
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/flip-game
+%%% solution_url: https://leetcode-cn.com/problems/flip-game/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_293_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

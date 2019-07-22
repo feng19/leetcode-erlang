@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 744
+%%% name: Find Smallest Letter Greater Than Target
+%%% describe: 寻找比目标字母大的最小字母
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target
+%%% solution_url: https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_744_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

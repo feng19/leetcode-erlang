@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1046
+%%% name: Last Stone Weight
+%%% describe: 最后一块石头的重量
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/last-stone-weight
+%%% solution_url: https://leetcode-cn.com/problems/last-stone-weight/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1046_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

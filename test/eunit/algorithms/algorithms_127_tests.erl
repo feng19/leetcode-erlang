@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 127
+%%% name: Word Ladder
+%%% describe: 单词接龙
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/word-ladder
+%%% solution_url: https://leetcode-cn.com/problems/word-ladder/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_127_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

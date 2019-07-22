@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 997
+%%% name: Find the Town Judge
+%%% describe: 找到小镇的法官
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/find-the-town-judge
+%%% solution_url: https://leetcode-cn.com/problems/find-the-town-judge/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_997_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

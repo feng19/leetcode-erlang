@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 485
+%%% name: Max Consecutive Ones
+%%% describe: 最大连续1的个数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/max-consecutive-ones
+%%% solution_url: https://leetcode-cn.com/problems/max-consecutive-ones/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_485_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

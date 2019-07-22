@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 476
+%%% name: Number Complement
+%%% describe: 数字的补数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/number-complement
+%%% solution_url: https://leetcode-cn.com/problems/number-complement/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_476_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

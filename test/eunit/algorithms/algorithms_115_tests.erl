@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 115
+%%% name: Distinct Subsequences
+%%% describe: 不同的子序列
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/distinct-subsequences
+%%% solution_url: https://leetcode-cn.com/problems/distinct-subsequences/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_115_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 554
+%%% name: Brick Wall
+%%% describe: 砖墙
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/brick-wall
+%%% solution_url: https://leetcode-cn.com/problems/brick-wall/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_554_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

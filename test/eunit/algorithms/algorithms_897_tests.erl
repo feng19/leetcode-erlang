@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 897
+%%% name: Increasing Order Search Tree
+%%% describe: 递增顺序查找树
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/increasing-order-search-tree
+%%% solution_url: https://leetcode-cn.com/problems/increasing-order-search-tree/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_897_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

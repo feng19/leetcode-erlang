@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1065
+%%% name: Index Pairs of a String
+%%% describe: 字符串的索引对
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/index-pairs-of-a-string
+%%% solution_url: https://leetcode-cn.com/problems/index-pairs-of-a-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1065_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

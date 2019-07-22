@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 474
+%%% name: Ones and Zeroes
+%%% describe: 一和零
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/ones-and-zeroes
+%%% solution_url: https://leetcode-cn.com/problems/ones-and-zeroes/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_474_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

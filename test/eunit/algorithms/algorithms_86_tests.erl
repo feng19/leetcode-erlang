@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 86
+%%% name: Partition List
+%%% describe: 分隔链表
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/partition-list
+%%% solution_url: https://leetcode-cn.com/problems/partition-list/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_86_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

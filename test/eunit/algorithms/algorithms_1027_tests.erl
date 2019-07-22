@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1027
+%%% name: Longest Arithmetic Sequence
+%%% describe: 最长等差数列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/longest-arithmetic-sequence
+%%% solution_url: https://leetcode-cn.com/problems/longest-arithmetic-sequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1027_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

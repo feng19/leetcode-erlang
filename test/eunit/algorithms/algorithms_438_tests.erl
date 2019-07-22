@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 438
+%%% name: Find All Anagrams in a String
+%%% describe: 找到字符串中所有字母异位词
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/find-all-anagrams-in-a-string
+%%% solution_url: https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_438_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

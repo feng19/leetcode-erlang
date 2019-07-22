@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1003
+%%% name: Check If Word Is Valid After Substitutions
+%%% describe: 检查替换后的词是否有效
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions
+%%% solution_url: https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1003_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

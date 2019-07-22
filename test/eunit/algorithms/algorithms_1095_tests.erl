@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1095
+%%% name: Find in Mountain Array
+%%% describe: 山脉数组中查找目标值
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/find-in-mountain-array
+%%% solution_url: https://leetcode-cn.com/problems/find-in-mountain-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1095_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

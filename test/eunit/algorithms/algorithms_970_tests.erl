@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 970
+%%% name: Powerful Integers
+%%% describe: 强整数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/powerful-integers
+%%% solution_url: https://leetcode-cn.com/problems/powerful-integers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_970_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

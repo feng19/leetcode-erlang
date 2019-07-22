@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 275
+%%% name: H-Index II
+%%% describe: H指数 II
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/h-index-ii
+%%% solution_url: https://leetcode-cn.com/problems/h-index-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_275_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

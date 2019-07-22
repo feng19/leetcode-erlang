@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 271
+%%% name: Encode and Decode Strings
+%%% describe: 字符串的编码与解码
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/encode-and-decode-strings
+%%% solution_url: https://leetcode-cn.com/problems/encode-and-decode-strings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_271_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

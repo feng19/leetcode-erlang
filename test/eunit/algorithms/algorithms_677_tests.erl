@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 677
+%%% name: Map Sum Pairs
+%%% describe: 键值映射
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/map-sum-pairs
+%%% solution_url: https://leetcode-cn.com/problems/map-sum-pairs/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_677_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

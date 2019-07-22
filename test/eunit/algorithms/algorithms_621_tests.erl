@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 621
+%%% name: Task Scheduler
+%%% describe: 任务调度器
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/task-scheduler
+%%% solution_url: https://leetcode-cn.com/problems/task-scheduler/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_621_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

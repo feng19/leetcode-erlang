@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 773
+%%% name: Sliding Puzzle
+%%% describe: 滑动谜题
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/sliding-puzzle
+%%% solution_url: https://leetcode-cn.com/problems/sliding-puzzle/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_773_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

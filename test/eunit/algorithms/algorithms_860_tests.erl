@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 860
+%%% name: Lemonade Change
+%%% describe: 柠檬水找零
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/lemonade-change
+%%% solution_url: https://leetcode-cn.com/problems/lemonade-change/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_860_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

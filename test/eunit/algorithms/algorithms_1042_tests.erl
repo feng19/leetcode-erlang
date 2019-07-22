@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1042
+%%% name: Flower Planting With No Adjacent
+%%% describe: 不邻接植花
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/flower-planting-with-no-adjacent
+%%% solution_url: https://leetcode-cn.com/problems/flower-planting-with-no-adjacent/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1042_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

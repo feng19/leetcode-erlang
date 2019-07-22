@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 161
+%%% name: One Edit Distance
+%%% describe: 相隔为 1 的编辑距离
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/one-edit-distance
+%%% solution_url: https://leetcode-cn.com/problems/one-edit-distance/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_161_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

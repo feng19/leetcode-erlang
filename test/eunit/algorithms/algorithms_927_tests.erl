@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 927
+%%% name: Three Equal Parts
+%%% describe: 三等分
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/three-equal-parts
+%%% solution_url: https://leetcode-cn.com/problems/three-equal-parts/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_927_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

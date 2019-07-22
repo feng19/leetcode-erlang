@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 781
+%%% name: Rabbits in Forest
+%%% describe: 森林中的兔子
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/rabbits-in-forest
+%%% solution_url: https://leetcode-cn.com/problems/rabbits-in-forest/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_781_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

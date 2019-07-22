@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 902
+%%% name: Numbers At Most N Given Digit Set
+%%% describe: 最大为 N 的数字组合
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set
+%%% solution_url: https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_902_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

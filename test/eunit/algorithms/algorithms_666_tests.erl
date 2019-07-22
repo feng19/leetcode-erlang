@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 666
+%%% name: Path Sum IV
+%%% describe: 路径和 IV
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/path-sum-iv
+%%% solution_url: https://leetcode-cn.com/problems/path-sum-iv/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_666_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

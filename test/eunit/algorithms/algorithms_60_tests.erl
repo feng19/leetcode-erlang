@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 60
+%%% name: Permutation Sequence
+%%% describe: 第k个排列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/permutation-sequence
+%%% solution_url: https://leetcode-cn.com/problems/permutation-sequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_60_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

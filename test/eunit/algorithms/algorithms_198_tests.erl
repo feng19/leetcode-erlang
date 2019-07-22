@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 198
+%%% name: House Robber
+%%% describe: 打家劫舍
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/house-robber
+%%% solution_url: https://leetcode-cn.com/problems/house-robber/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_198_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

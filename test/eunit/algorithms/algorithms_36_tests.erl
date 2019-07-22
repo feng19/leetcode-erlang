@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 36
+%%% name: Valid Sudoku
+%%% describe: 有效的数独
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/valid-sudoku
+%%% solution_url: https://leetcode-cn.com/problems/valid-sudoku/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_36_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1118
+%%% name: Number of Days in a Month
+%%% describe: 一月有多少天
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/number-of-days-in-a-month
+%%% solution_url: https://leetcode-cn.com/problems/number-of-days-in-a-month/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1118_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

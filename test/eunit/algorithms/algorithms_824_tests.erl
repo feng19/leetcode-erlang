@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 824
+%%% name: Goat Latin
+%%% describe: 山羊拉丁文
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/goat-latin
+%%% solution_url: https://leetcode-cn.com/problems/goat-latin/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_824_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

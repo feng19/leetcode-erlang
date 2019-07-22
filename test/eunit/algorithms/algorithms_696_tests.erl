@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 696
+%%% name: Count Binary Substrings
+%%% describe: 计数二进制子串
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/count-binary-substrings
+%%% solution_url: https://leetcode-cn.com/problems/count-binary-substrings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_696_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

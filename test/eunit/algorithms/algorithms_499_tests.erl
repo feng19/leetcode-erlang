@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 499
+%%% name: The Maze III
+%%% describe: 迷宫 III
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/the-maze-iii
+%%% solution_url: https://leetcode-cn.com/problems/the-maze-iii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_499_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

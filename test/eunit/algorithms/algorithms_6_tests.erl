@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 6
+%%% name: ZigZag Conversion
+%%% describe: Z 字形变换
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/zigzag-conversion
+%%% solution_url: https://leetcode-cn.com/problems/zigzag-conversion/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_6_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

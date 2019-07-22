@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 944
+%%% name: Delete Columns to Make Sorted
+%%% describe: 删列造序
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/delete-columns-to-make-sorted
+%%% solution_url: https://leetcode-cn.com/problems/delete-columns-to-make-sorted/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_944_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

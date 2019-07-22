@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 530
+%%% name: Minimum Absolute Difference in BST
+%%% describe: 二叉搜索树的最小绝对差
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst
+%%% solution_url: https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_530_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

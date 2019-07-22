@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 295
+%%% name: Find Median from Data Stream
+%%% describe: 数据流的中位数
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/find-median-from-data-stream
+%%% solution_url: https://leetcode-cn.com/problems/find-median-from-data-stream/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_295_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

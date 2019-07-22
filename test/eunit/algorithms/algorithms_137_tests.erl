@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 137
+%%% name: Single Number II
+%%% describe: 只出现一次的数字 II
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/single-number-ii
+%%% solution_url: https://leetcode-cn.com/problems/single-number-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_137_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

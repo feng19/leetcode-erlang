@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 888
+%%% name: Fair Candy Swap
+%%% describe: 公平的糖果交换
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/fair-candy-swap
+%%% solution_url: https://leetcode-cn.com/problems/fair-candy-swap/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_888_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

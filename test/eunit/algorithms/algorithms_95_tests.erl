@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 95
+%%% name: Unique Binary Search Trees II
+%%% describe: 不同的二叉搜索树 II
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/unique-binary-search-trees-ii
+%%% solution_url: https://leetcode-cn.com/problems/unique-binary-search-trees-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_95_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

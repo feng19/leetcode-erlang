@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 344
+%%% name: Reverse String
+%%% describe: 反转字符串
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/reverse-string
+%%% solution_url: https://leetcode-cn.com/problems/reverse-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_344_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

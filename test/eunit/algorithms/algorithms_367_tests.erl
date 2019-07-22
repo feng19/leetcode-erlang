@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 367
+%%% name: Valid Perfect Square
+%%% describe: 有效的完全平方数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/valid-perfect-square
+%%% solution_url: https://leetcode-cn.com/problems/valid-perfect-square/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_367_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

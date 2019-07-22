@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 920
+%%% name: Number of Music Playlists
+%%% describe: 播放列表的数量
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/number-of-music-playlists
+%%% solution_url: https://leetcode-cn.com/problems/number-of-music-playlists/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_920_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

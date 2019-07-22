@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 268
+%%% name: Missing Number
+%%% describe: 缺失数字
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/missing-number
+%%% solution_url: https://leetcode-cn.com/problems/missing-number/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_268_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

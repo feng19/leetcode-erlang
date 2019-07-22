@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 421
+%%% name: Maximum XOR of Two Numbers in an Array
+%%% describe: 数组中两个数的最大异或值
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array
+%%% solution_url: https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_421_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

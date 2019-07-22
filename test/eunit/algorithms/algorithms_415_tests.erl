@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 415
+%%% name: Add Strings
+%%% describe: 字符串相加
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/add-strings
+%%% solution_url: https://leetcode-cn.com/problems/add-strings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_415_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 832
+%%% name: Flipping an Image
+%%% describe: 翻转图像
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/flipping-an-image
+%%% solution_url: https://leetcode-cn.com/problems/flipping-an-image/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_832_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

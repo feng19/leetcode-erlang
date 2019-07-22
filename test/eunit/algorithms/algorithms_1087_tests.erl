@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1087
+%%% name: Brace Expansion
+%%% describe: 字母切换
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/brace-expansion
+%%% solution_url: https://leetcode-cn.com/problems/brace-expansion/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1087_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

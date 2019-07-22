@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 160
+%%% name: Intersection of Two Linked Lists
+%%% describe: 相交链表
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/intersection-of-two-linked-lists
+%%% solution_url: https://leetcode-cn.com/problems/intersection-of-two-linked-lists/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_160_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

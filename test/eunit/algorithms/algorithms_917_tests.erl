@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 917
+%%% name: Reverse Only Letters
+%%% describe: 仅仅反转字母
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/reverse-only-letters
+%%% solution_url: https://leetcode-cn.com/problems/reverse-only-letters/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_917_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

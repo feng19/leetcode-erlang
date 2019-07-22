@@ -39,17 +39,24 @@ transform_defines() ->
     ].
 
 readme_transform_fun([{_InputFile, Data}]) ->
-    {ok, #{subjects => Data}}.
+    Subjects = [
+        begin
+            #{index := Index} = Map,
+            Filename = "algorithms_" ++ binary_to_list(Index),
+            Map#{filename => "/src/algorithms/" ++ Filename ++ ".erl"}
+        end || Map <- Data],
+    {ok, #{subjects => Subjects}}.
 
 transform_fun([{_InputFile, Data}]) ->
 %%    io:format("~p~n", [Data]),
+    RenderOptions = [{key_type, atom}],
     lists:flatten([
         begin
             #{index := Index} = Map,
             Filename = "algorithms_" ++ binary_to_list(Index),
             EUnitFilename = "algorithms_" ++ binary_to_list(Index) ++ "_tests",
             [
-                {ok, "src/algorithms/" ++ Filename ++ ".erl", Map#{filename => Filename}, [], "erl.erl.tpl"},
-                {ok, "test/eunit/algorithms/" ++ EUnitFilename ++ ".erl", Map#{filename => EUnitFilename}, [], "eunit.erl.tpl"}
+                {ok, "src/algorithms/" ++ Filename ++ ".erl", Map#{filename => Filename}, RenderOptions, "erl.erl.tpl"},
+                {ok, "test/eunit/algorithms/" ++ EUnitFilename ++ ".erl", Map#{filename => EUnitFilename}, RenderOptions, "eunit.erl.tpl"}
             ]
         end || Map <- Data]).

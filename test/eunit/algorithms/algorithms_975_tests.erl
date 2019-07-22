@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 975
+%%% name: Odd Even Jump
+%%% describe: 奇偶跳
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/odd-even-jump
+%%% solution_url: https://leetcode-cn.com/problems/odd-even-jump/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_975_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

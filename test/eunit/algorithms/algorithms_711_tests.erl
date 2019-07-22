@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 711
+%%% name: Number of Distinct Islands II
+%%% describe: 不同岛屿的数量 II
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/number-of-distinct-islands-ii
+%%% solution_url: https://leetcode-cn.com/problems/number-of-distinct-islands-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_711_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

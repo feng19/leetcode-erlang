@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 992
+%%% name: Subarrays with K Different Integers
+%%% describe: K 个不同整数的子数组
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/subarrays-with-k-different-integers
+%%% solution_url: https://leetcode-cn.com/problems/subarrays-with-k-different-integers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_992_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

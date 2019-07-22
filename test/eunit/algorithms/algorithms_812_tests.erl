@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 812
+%%% name: Largest Triangle Area
+%%% describe: 最大三角形面积
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/largest-triangle-area
+%%% solution_url: https://leetcode-cn.com/problems/largest-triangle-area/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_812_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 877
+%%% name: Stone Game
+%%% describe: 石子游戏
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/stone-game
+%%% solution_url: https://leetcode-cn.com/problems/stone-game/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_877_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 932
+%%% name: Beautiful Array
+%%% describe: 漂亮数组
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/beautiful-array
+%%% solution_url: https://leetcode-cn.com/problems/beautiful-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_932_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

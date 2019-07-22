@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 62
+%%% name: Unique Paths
+%%% describe: 不同路径
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/unique-paths
+%%% solution_url: https://leetcode-cn.com/problems/unique-paths/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_62_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

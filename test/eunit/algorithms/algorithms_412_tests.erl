@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 412
+%%% name: Fizz Buzz
+%%% describe: Fizz Buzz
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/fizz-buzz
+%%% solution_url: https://leetcode-cn.com/problems/fizz-buzz/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_412_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

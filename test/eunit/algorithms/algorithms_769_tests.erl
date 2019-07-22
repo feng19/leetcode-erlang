@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 769
+%%% name: Max Chunks To Make Sorted
+%%% describe: 最多能完成排序的块
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/max-chunks-to-make-sorted
+%%% solution_url: https://leetcode-cn.com/problems/max-chunks-to-make-sorted/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_769_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

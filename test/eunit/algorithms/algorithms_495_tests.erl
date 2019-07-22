@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 495
+%%% name: Teemo Attacking
+%%% describe: 提莫攻击
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/teemo-attacking
+%%% solution_url: https://leetcode-cn.com/problems/teemo-attacking/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_495_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

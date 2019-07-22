@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 53
+%%% name: Maximum Subarray
+%%% describe: 最大子序和
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/maximum-subarray
+%%% solution_url: https://leetcode-cn.com/problems/maximum-subarray/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_53_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

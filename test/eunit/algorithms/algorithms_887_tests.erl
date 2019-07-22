@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 887
+%%% name: Super Egg Drop
+%%% describe: 鸡蛋掉落
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/super-egg-drop
+%%% solution_url: https://leetcode-cn.com/problems/super-egg-drop/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_887_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

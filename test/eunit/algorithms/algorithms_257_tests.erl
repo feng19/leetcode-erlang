@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 257
+%%% name: Binary Tree Paths
+%%% describe: 二叉树的所有路径
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/binary-tree-paths
+%%% solution_url: https://leetcode-cn.com/problems/binary-tree-paths/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_257_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

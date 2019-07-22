@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 371
+%%% name: Sum of Two Integers
+%%% describe: 两整数之和
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/sum-of-two-integers
+%%% solution_url: https://leetcode-cn.com/problems/sum-of-two-integers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_371_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

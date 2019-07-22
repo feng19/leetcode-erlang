@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 217
+%%% name: Contains Duplicate
+%%% describe: 存在重复元素
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/contains-duplicate
+%%% solution_url: https://leetcode-cn.com/problems/contains-duplicate/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_217_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

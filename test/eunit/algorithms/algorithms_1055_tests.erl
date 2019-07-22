@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1055
+%%% name: Shortest Way to Form String
+%%% describe: 形成字符串的最短路径
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/shortest-way-to-form-string
+%%% solution_url: https://leetcode-cn.com/problems/shortest-way-to-form-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1055_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

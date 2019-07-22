@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 802
+%%% name: Find Eventual Safe States
+%%% describe: 找到最终的安全状态
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/find-eventual-safe-states
+%%% solution_url: https://leetcode-cn.com/problems/find-eventual-safe-states/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_802_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

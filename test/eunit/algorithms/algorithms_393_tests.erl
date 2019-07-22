@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 393
+%%% name: UTF-8 Validation
+%%% describe: UTF-8 编码验证
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/utf-8-validation
+%%% solution_url: https://leetcode-cn.com/problems/utf-8-validation/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_393_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

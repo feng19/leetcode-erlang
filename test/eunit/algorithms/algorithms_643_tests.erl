@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 643
+%%% name: Maximum Average Subarray I
+%%% describe: 子数组最大平均数 I
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/maximum-average-subarray-i
+%%% solution_url: https://leetcode-cn.com/problems/maximum-average-subarray-i/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_643_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

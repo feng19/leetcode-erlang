@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1034
+%%% name: Coloring A Border
+%%% describe: 边框着色
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/coloring-a-border
+%%% solution_url: https://leetcode-cn.com/problems/coloring-a-border/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1034_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 2
+%%% name: Add Two Numbers
+%%% describe: 两数相加
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/add-two-numbers
+%%% solution_url: https://leetcode-cn.com/problems/add-two-numbers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_2_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

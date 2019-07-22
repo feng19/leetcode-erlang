@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 461
+%%% name: Hamming Distance
+%%% describe: 汉明距离
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/hamming-distance
+%%% solution_url: https://leetcode-cn.com/problems/hamming-distance/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_461_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

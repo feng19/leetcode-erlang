@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 815
+%%% name: Bus Routes
+%%% describe: 公交路线
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/bus-routes
+%%% solution_url: https://leetcode-cn.com/problems/bus-routes/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_815_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

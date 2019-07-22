@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 909
+%%% name: Snakes and Ladders
+%%% describe: 蛇梯棋
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/snakes-and-ladders
+%%% solution_url: https://leetcode-cn.com/problems/snakes-and-ladders/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_909_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

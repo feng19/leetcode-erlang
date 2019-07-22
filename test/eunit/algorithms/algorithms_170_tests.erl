@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 170
+%%% name: Two Sum III - Data structure design
+%%% describe: 两数之和 III - 数据结构设计
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/two-sum-iii-data-structure-design
+%%% solution_url: https://leetcode-cn.com/problems/two-sum-iii-data-structure-design/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_170_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

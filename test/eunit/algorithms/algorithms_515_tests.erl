@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 515
+%%% name: Find Largest Value in Each Tree Row
+%%% describe: 在每个树行中找最大值
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row
+%%% solution_url: https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_515_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

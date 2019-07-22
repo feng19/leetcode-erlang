@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 119
+%%% name: Pascal's Triangle II
+%%% describe: 杨辉三角 II
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/pascals-triangle-ii
+%%% solution_url: https://leetcode-cn.com/problems/pascals-triangle-ii/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_119_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

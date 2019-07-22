@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 986
+%%% name: Interval List Intersections
+%%% describe: 区间列表的交集
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/interval-list-intersections
+%%% solution_url: https://leetcode-cn.com/problems/interval-list-intersections/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_986_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

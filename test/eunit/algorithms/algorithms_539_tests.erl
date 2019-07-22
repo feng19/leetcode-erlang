@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 539
+%%% name: Minimum Time Difference
+%%% describe: 最小时间差
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/minimum-time-difference
+%%% solution_url: https://leetcode-cn.com/problems/minimum-time-difference/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_539_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

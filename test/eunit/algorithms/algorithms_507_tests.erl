@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 507
+%%% name: Perfect Number
+%%% describe: 完美数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/perfect-number
+%%% solution_url: https://leetcode-cn.com/problems/perfect-number/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_507_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

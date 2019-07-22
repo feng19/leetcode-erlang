@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 858
+%%% name: Mirror Reflection
+%%% describe: 镜面反射
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/mirror-reflection
+%%% solution_url: https://leetcode-cn.com/problems/mirror-reflection/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_858_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

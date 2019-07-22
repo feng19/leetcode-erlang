@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 935
+%%% name: Knight Dialer
+%%% describe: 骑士拨号器
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/knight-dialer
+%%% solution_url: https://leetcode-cn.com/problems/knight-dialer/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_935_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

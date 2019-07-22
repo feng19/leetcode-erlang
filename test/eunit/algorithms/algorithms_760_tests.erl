@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 760
+%%% name: Find Anagram Mappings
+%%% describe: 找出变位映射
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/find-anagram-mappings
+%%% solution_url: https://leetcode-cn.com/problems/find-anagram-mappings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_760_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

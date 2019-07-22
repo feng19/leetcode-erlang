@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 669
+%%% name: Trim a Binary Search Tree
+%%% describe: 修剪二叉搜索树
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/trim-a-binary-search-tree
+%%% solution_url: https://leetcode-cn.com/problems/trim-a-binary-search-tree/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_669_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

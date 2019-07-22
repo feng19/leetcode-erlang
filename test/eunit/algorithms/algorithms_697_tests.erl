@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 697
+%%% name: Degree of an Array
+%%% describe: 数组的度
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/degree-of-an-array
+%%% solution_url: https://leetcode-cn.com/problems/degree-of-an-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_697_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

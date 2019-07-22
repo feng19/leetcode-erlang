@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 605
+%%% name: Can Place Flowers
+%%% describe: 种花问题
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/can-place-flowers
+%%% solution_url: https://leetcode-cn.com/problems/can-place-flowers/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_605_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

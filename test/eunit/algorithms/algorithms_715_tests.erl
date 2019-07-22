@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 715
+%%% name: Range Module
+%%% describe: Range 模块
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/range-module
+%%% solution_url: https://leetcode-cn.com/problems/range-module/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_715_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

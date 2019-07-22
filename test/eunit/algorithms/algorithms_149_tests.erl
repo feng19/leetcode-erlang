@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 149
+%%% name: Max Points on a Line
+%%% describe: 直线上最多的点数
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/max-points-on-a-line
+%%% solution_url: https://leetcode-cn.com/problems/max-points-on-a-line/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_149_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

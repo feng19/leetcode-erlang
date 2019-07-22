@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 392
+%%% name: Is Subsequence
+%%% describe: 判断子序列
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/is-subsequence
+%%% solution_url: https://leetcode-cn.com/problems/is-subsequence/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_392_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

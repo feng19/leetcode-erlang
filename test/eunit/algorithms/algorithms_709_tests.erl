@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 709
+%%% name: To Lower Case
+%%% describe: 转换成小写字母
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/to-lower-case
+%%% solution_url: https://leetcode-cn.com/problems/to-lower-case/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_709_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

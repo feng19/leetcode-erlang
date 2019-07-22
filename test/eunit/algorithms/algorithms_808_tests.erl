@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 808
+%%% name: Soup Servings
+%%% describe: 分汤
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/soup-servings
+%%% solution_url: https://leetcode-cn.com/problems/soup-servings/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_808_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

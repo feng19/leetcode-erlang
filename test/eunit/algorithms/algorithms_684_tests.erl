@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 684
+%%% name: Redundant Connection
+%%% describe: 冗余连接
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/redundant-connection
+%%% solution_url: https://leetcode-cn.com/problems/redundant-connection/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_684_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

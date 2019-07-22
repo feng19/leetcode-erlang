@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 806
+%%% name: Number of Lines To Write String
+%%% describe: 写字符串需要的行数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/number-of-lines-to-write-string
+%%% solution_url: https://leetcode-cn.com/problems/number-of-lines-to-write-string/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_806_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

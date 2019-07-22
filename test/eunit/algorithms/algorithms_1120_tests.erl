@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1120
+%%% name: Maximum Average Subtree
+%%% describe: 子树的最大平均值
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/maximum-average-subtree
+%%% solution_url: https://leetcode-cn.com/problems/maximum-average-subtree/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1120_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

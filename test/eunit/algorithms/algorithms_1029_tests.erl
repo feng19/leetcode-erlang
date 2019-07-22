@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1029
+%%% name: Two City Scheduling
+%%% describe: 两地调度
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/two-city-scheduling
+%%% solution_url: https://leetcode-cn.com/problems/two-city-scheduling/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1029_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

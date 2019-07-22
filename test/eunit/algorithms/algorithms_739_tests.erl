@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 739
+%%% name: Daily Temperatures
+%%% describe: 每日温度
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/daily-temperatures
+%%% solution_url: https://leetcode-cn.com/problems/daily-temperatures/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_739_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1106
+%%% name: Parsing A Boolean Expression
+%%% describe: 解析布尔表达式
+%%% difficulty: 困难
+%%% url: https://leetcode-cn.com/problems/parsing-a-boolean-expression
+%%% solution_url: https://leetcode-cn.com/problems/parsing-a-boolean-expression/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1106_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

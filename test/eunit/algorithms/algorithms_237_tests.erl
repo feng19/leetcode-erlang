@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 237
+%%% name: Delete Node in a Linked List
+%%% describe: 删除链表中的节点
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/delete-node-in-a-linked-list
+%%% solution_url: https://leetcode-cn.com/problems/delete-node-in-a-linked-list/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_237_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

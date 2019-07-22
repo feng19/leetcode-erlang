@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 246
+%%% name: Strobogrammatic Number
+%%% describe: 中心对称数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/strobogrammatic-number
+%%% solution_url: https://leetcode-cn.com/problems/strobogrammatic-number/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_246_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

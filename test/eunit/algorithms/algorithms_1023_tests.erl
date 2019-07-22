@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 1023
+%%% name: Camelcase Matching
+%%% describe: 驼峰式匹配
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/camelcase-matching
+%%% solution_url: https://leetcode-cn.com/problems/camelcase-matching/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_1023_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

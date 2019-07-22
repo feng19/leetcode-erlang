@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 360
+%%% name: Sort Transformed Array
+%%% describe: 有序转化数组
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/sort-transformed-array
+%%% solution_url: https://leetcode-cn.com/problems/sort-transformed-array/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_360_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

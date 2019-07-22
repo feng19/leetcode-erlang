@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 746
+%%% name: Min Cost Climbing Stairs
+%%% describe: 使用最小花费爬楼梯
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/min-cost-climbing-stairs
+%%% solution_url: https://leetcode-cn.com/problems/min-cost-climbing-stairs/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_746_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

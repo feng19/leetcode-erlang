@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 169
+%%% name: Majority Element
+%%% describe: 求众数
+%%% difficulty: 简单
+%%% url: https://leetcode-cn.com/problems/majority-element
+%%% solution_url: https://leetcode-cn.com/problems/majority-element/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_169_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 813
+%%% name: Largest Sum of Averages
+%%% describe: 最大平均值和的分组
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/largest-sum-of-averages
+%%% solution_url: https://leetcode-cn.com/problems/largest-sum-of-averages/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_813_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 

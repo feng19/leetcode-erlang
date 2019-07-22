@@ -1,14 +1,14 @@
 %%%-------------------------------------------------------------------
 %%% @doc
-%%% index: 
-%%% name: 
-%%% describe: 
-%%% difficulty: 
-%%% url: 
-%%% solution_url: 
+%%% index: 162
+%%% name: Find Peak Element
+%%% describe: 寻找峰值
+%%% difficulty: 中等
+%%% url: https://leetcode-cn.com/problems/find-peak-element
+%%% solution_url: https://leetcode-cn.com/problems/find-peak-element/solution
 %%% @end
 %%%-------------------------------------------------------------------
--module().
+-module(algorithms_162_tests).
 
 -include_lib("eunit/include/eunit.hrl").
 
