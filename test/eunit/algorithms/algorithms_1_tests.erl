@@ -12,8 +12,7 @@
 
 -include_lib("eunit/include/eunit.hrl").
 
-%% TODO
 do_test_() ->
     [
-        ?_assertEqual(true, 1 == 1)
+        ?_assertEqual({0, 1}, algorithms_1:do([2, 7, 11, 15], 9))
     ].

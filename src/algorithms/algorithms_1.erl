@@ -12,9 +12,23 @@
 
 %% API
 -export([
-    do/1
+    do/2
 ]).
 
-%% TODO
-do(_) ->
-    ok.
+-spec do([integer()], integer()) -> {integer(), integer()}.
+do(NumList, Target) ->
+    do1(0, NumList, Target).
+do1(Index, [N1 | NumList], Target) ->
+    case do1(Index, N1, Index + 1, NumList, Target) of
+        nil ->
+            do1(Index + 1, NumList, Target);
+        Return -> Return
+    end;
+do1(_Index, [], _Target) -> nil.
+
+do1(Index1, N1, Index2, [N2 | _NumList], Target) when N1 + N2 == Target ->
+    {Index1, Index2};
+do1(Index1, N1, Index2, [_N2 | NumList], Target) ->
+    do1(Index1, N1, Index2 + 1, NumList, Target);
+do1(_Index1, _N1, _Index2, [], _Target) ->
+    nil.
