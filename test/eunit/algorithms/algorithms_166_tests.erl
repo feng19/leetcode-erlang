@@ -15,5 +15,5 @@
 %% TODO
 do_test_() ->
     [
-        ?_assertEqual(true, 1 == 1)
+        %?_assertEqual(true, 1 == 1)
     ].

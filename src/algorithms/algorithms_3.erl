@@ -21,16 +21,9 @@ do(List) ->
 do([N | List], Acc, NowLen, MaxLen) ->
     case lists:member(N, Acc) of
         true ->
-            case NowLen > MaxLen of
-                true ->
-                    do(List, [N], 1, NowLen);
-                _ ->
-                    do(List, [N], 1, MaxLen)
-            end;
+            do(List, [N], 1, erlang:max(NowLen, MaxLen));
         _ ->
             do(List, [N | Acc], NowLen + 1, MaxLen)
     end;
-do([], _Acc, NowLen, MaxLen) when NowLen > MaxLen ->
-    NowLen;
-do([], _Acc, _NowLen, MaxLen) ->
-    MaxLen.
+do([], _Acc, NowLen, MaxLen) ->
+    erlang:max(NowLen, MaxLen).
