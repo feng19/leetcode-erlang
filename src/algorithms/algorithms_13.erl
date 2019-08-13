@@ -15,6 +15,32 @@
     do/1
 ]).
 
-%% TODO
-do(_) ->
-    ok.
+% range: 1-3999
+do([$C, $M | Roman]) ->
+    900 + do(Roman);
+do([$C, $D | Roman]) ->
+    400 + do(Roman);
+do([$X, $C | Roman]) ->
+    90 + do(Roman);
+do([$X, $L | Roman]) ->
+    40 + do(Roman);
+do([$I, $X | Roman]) ->
+    9 + do(Roman);
+do([$I, $V | Roman]) ->
+    4 + do(Roman);
+do([$M | Roman]) ->
+    1000 + do(Roman);
+do([$D | Roman]) ->
+    500 + do(Roman);
+do([$C | Roman]) ->
+    100 + do(Roman);
+do([$L | Roman]) ->
+    50 + do(Roman);
+do([$X | Roman]) ->
+    10 + do(Roman);
+do([$V | Roman]) ->
+    5 + do(Roman);
+do([$I | Roman]) ->
+    1 + do(Roman);
+do([]) -> 0.
+

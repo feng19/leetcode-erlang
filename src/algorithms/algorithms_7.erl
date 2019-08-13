@@ -15,6 +15,10 @@
     do/1
 ]).
 
-%% TODO
-do(_) ->
-    ok.
+do(Int) ->
+    do(0, Int).
+do(Rev, Int) when Int < 10 andalso Int > -10 ->
+    Rev * 10 + Int;
+do(Rev, Int) ->
+    Pop = Int rem 10,
+    do((Rev * 10) + Pop, Int div 10).

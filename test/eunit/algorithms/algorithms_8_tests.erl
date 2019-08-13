@@ -12,8 +12,13 @@
 
 -include_lib("eunit/include/eunit.hrl").
 
-%% TODO
 do_test_() ->
     [
-        %?_assertEqual(true, 1 == 1)
+        ?_assertEqual(42, algorithms_8:do(" 42")),
+        ?_assertEqual(42, algorithms_8:do("42")),
+        ?_assertEqual(-42, algorithms_8:do("-42")),
+        ?_assertEqual(4193, algorithms_8:do("4193 with words")),
+        ?_assertEqual(0, algorithms_8:do("words and 987")),
+        ?_assertEqual(2147483648, algorithms_8:do("91283472332")),
+        ?_assertEqual(-2147483648, algorithms_8:do("-91283472332"))
     ].

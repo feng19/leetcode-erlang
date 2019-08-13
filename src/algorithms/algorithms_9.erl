@@ -15,6 +15,13 @@
     do/1
 ]).
 
-%% TODO
-do(_) ->
-    ok.
+do(0) -> true;
+do(Int) when Int =< 10 -> false;
+do(Int) when (Int rem 10) == 0 -> false;
+do(Int) ->
+    {NewInt, RevertedNumber} = reverted_number(Int, 0),
+    NewInt == RevertedNumber orelse NewInt == RevertedNumber div 10.
+
+reverted_number(Int, RevertedNumber) when Int > RevertedNumber ->
+    reverted_number(Int div 10, RevertedNumber * 10 + Int rem 10);
+reverted_number(Int, RevertedNumber) -> {Int, RevertedNumber}.
