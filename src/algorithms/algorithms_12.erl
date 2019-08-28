@@ -42,4 +42,5 @@ do(Int) when Int >= 5 ->
     [$V | do(Int - 5)];
 do(4) -> [$I, $V];
 do(Int) when Int > 0 ->
-    lists:duplicate(Int, $I).
+    lists:duplicate(Int, $I);
+do(0) -> [].

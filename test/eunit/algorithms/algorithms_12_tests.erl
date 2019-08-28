@@ -19,5 +19,6 @@ do_test_() ->
         ?_assertEqual("IX", algorithms_12:do(9)),
         ?_assertEqual("XXVII", algorithms_12:do(27)),
         ?_assertEqual("LVIII", algorithms_12:do(58)),
+        ?_assertEqual("DLXXV", algorithms_12:do(575)),
         ?_assertEqual("MCMXCIV", algorithms_12:do(1994))
     ].
